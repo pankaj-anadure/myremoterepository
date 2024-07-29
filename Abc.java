@@ -2,6 +2,6 @@ public class Abc
 {
 	public static void main(String args[])
 	{
-		System.out.println("HI Everyone !");
+		System.out.println("Have a nice day :) ");
 	}
 }
